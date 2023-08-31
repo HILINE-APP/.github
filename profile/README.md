@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=300 src="https://github.com/HILINE-APP/.github/blob/main/profile/logo.png?raw=true" alt="Hiline Logo">
+  <img width=200 src="https://github.com/HILINE-APP/.github/blob/main/profile/logo.png?raw=true" alt="Hiline Logo">
 </p>
 
 # Hiline: Empowering Change, Ending AIDS
