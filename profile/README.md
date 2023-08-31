@@ -1,27 +1,36 @@
-# Welcome to Hiline Organization
+<p align="center">
+  <img width=300 src="https://github.com/HILINE-APP/.github/blob/main/profile/logo.png?raw=true" alt="Hiline Logo">
+</p>
 
-Hiline is an application that aims to increase the knowledge of the general public and PLHIV (People Living with HIV/AIDS) about HIV (Human Immunodeficiency Virus) to prevent wider transmission of the HIV virus, in support of the Three Zero program towards Indonesia Free of AIDS 2030.
+# Hiline: Empowering Change, Ending AIDS
 
-![Hiline Logo](link_to_logo_image.png)
+Welcome to the Hiline Organization – where technology meets advocacy, and innovation drives social impact. Our mission is to pave the way towards an AIDS-free Indonesia by 2030 through education, awareness, and cutting-edge solutions.
 
 ## About Hiline
 
-Hiline is a project with a noble goal, striving to contribute to the Indonesia Free of AIDS 2030 program. Our mission is to provide accurate and accessible information about HIV to both the general public and PLHIV. Through the use of modern technology and educational resources, we aim to empower individuals to make informed decisions and promote HIV prevention.
+Hiline is more than an application; it's a movement for change. Our app is a dynamic platform designed to educate both the public and PLHIV (People Living with HIV/AIDS) about the intricacies of HIV (Human Immunodeficiency Virus). By providing accurate information and fostering open conversations, we're empowering individuals to make informed decisions and champion HIV prevention.
 
 ## Tech Stack
 
-- Backend: Go Lang
-- Frontend: Kotlin
-- Database: PostgreSQL, Redis
-- Deployment: Docker
+Our tech stack forms the backbone of our commitment to excellence:
 
-## Getting Involved
+- **Backend**: Go
+- **Frontend**: Kotlin 
+- **Database**: PostgreSQL, Redis 
+- **Deployment**: Docker
 
-We welcome contributions from developers, designers, and anyone interested in making a positive impact. If you'd like to get involved, please check out our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive community.
+We believe in harnessing the power of technology to transform lives and society.
 
-## Contact Us
+## Get Involved
 
-Feel free to reach out to us via email at [contact@hiline.my.id](mailto:contact@hiline.my.id) for any inquiries or collaboration opportunities. You can also visit our website [www.hiline.org](https://www.hiline.my.id) for more information.
+Want to make a lasting impact? Join our community of passionate developers, designers, and advocates. Check out our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to be part of our inclusive and forward-thinking ecosystem.
 
-Let's work together to support the Three Zero program and contribute to a brighter future for Indonesia!
+## Connect with Us
 
+Let's drive change together. Reach out to us at [noreply@hiline.org](mailto:noreply@hiline.my.id) for inquiries and collaboration opportunities. Discover more about our initiatives on our website: [www.hiline.my.id](https://www.hiline.my.id)
+
+Together, we can create a future where AIDS is a thing of the past and knowledge is the key to liberation.
+
+<div align="center">
+  <p><i>Join the Hiline movement. Empower lives.</i></p>
+</div>
